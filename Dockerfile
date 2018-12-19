@@ -1,2 +1,2 @@
 FROM scratch
-ADD rsut_runtime.tar.xz /
+ADD rust_runtime.tar.xz /
